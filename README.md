@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install hk-address-parser-lib
+npm install https://github.com/g0vhk-io/hk-address-parser-lib.git
 ```
 
 ## Usage
