@@ -2,8 +2,13 @@
 
 ## Installation
 
+You are required to install these two dependencies yourself if they are not already used in your project: 
 ```bash
-npm install https://github.com/g0vhk-io/hk-address-parser-lib.git
+npm i @turf/turf proj4
+```
+
+```bash
+npm i hk-address-parser
 ```
 
 ## Usage
